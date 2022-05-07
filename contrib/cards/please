@@ -1,6 +1,185 @@
 {
   "units": {
-    "Empire": {
+    "Acacin Armouries": {
+      "Commander": [
+        {
+          "name": "Phex Acacin",
+          "title": "RC-944",
+          "image": "https://i.ibb.co/fSYzjWm/Phex-Acacin-Commander.png",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 140,
+          "speed": 2,
+          "upgrades": {
+            "Training": 1,
+            "Armament": 1,
+            "Gear": 1,
+            "Command": 1,
+          },
+          "minis": [
+            {
+              "mesh": ""http://cloud-3.steamusercontent.com/ugc/1021696737982271779/BBF522FC361772E237872CCC9E983F4A7CD58838/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982271948/1595F95FC7DB45109C0C2BCBE8A06B0F487FD04E/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Mandokarla",
+              "image": "https://i.ibb.co/kJNZ88m/Phex-Mandokarla.png",
+              "pip": 1
+            },
+            {
+              "name": "Youre Outmatched",
+              "image": "https://i.ibb.co/SmtJWBB/Youre-Outmatched.png",
+              "pip": 2
+            },
+            {
+              "name": "Oppressive Maneuvers",
+              "image": "https://i.ibb.co/2FQNtmt/Oppressive-Manuevers.png",
+              "pip": 2
+            },
+            {
+              "name": "Imprinted Maneuvers",
+              "image": "https://i.ibb.co/vcT40PJ/Imprinted-Manuevers.png",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Operative": [
+        {
+          "name": "Boba Fett",
+          "title": "Infamous Bounty Hunter",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788701498/836304CFE19193261F594363CFD8860F22FCD5F1/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 120,
+          "speed": 3,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/785234540541667697/9BC2C54E14EA265620F3D96553274503245D1681/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541669466/60DFE8F3EC756ECE7E5729D3261EF37CACA587C6/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "Whipcord Launcher",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564035802/A1AA027AE84C3CF96C2E671C6BFA78E2C94E2741/",
+              "pip": 1
+            },
+            {
+              "name": "ZX Flame Projector",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564034359/7CC1427FEA79D22D3128A5650F8A93159661A656/",
+              "pip": 2
+            },
+            {
+              "name": "Z-6 Jetpack Rocket",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1680393865564032805/D4AEE724FC17B87F391BB7B24A3C8D44B40B704B/",
+              "pip": 3
+            }
+          ],
+          "additionalObjects": ["Victory Token"]
+        },
+      ],
+      "Corps": [
+        {
+          "name": "Hired Guns",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640741999970/AEA964040C9423D7CB3BBFE8E6127BFF6D9B4B16/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 36,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Illicit": 1,
+            "Armament": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697231138162716/6618383926180465FB60EC9786E27A680C85BFC9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697231138162922/C28DD0F623633DABFC9748FFE85A4AFA8D6010DE/"
+          },
+      ],
+      "Special Forces": [
+        {
+          "name": "Mandalorian Resistance",
+          "image": "https://i.ibb.co/DKhx1j5/unknown.png",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 72,
+          "speed": 3,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Training": 1,
+            "Comms": 1,
+            "Gear": 1,
+            "Armament": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886421832/BBE3592A7496E444E116271913178A8ED41F5323/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696515357880094/FFFBDA79DE3B6192926EFCDFC257708C2A360562/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696515357880292/78883B5B08CCDC0B7BC4EF36D45DAB06E9057FEB/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886396178/07FB37CA0A11552BEF96C3DCA10AF232C65AF7B6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886396372/35E5047903DC30F882B40719809ECF90DBC65A5A/"
+            }
+          ]
+        },
+      ],
+      "Support": [
+        {
+          "name": "AT-RT",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1683770969788790101/7D591836DB5F16ED19FE2A28B55784950E1759CB/",
+          "size": "large",
+          "type": "Ground Vehicle",
+          "points": 60,
+          "speed": 2,
+          "upgrades": {
+            "Hardpoint": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1002556126520812865/51DA6EC33B5B7DC2274B97867C4E68F302AF5AE5/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1003681674396366135/D383D40E0AA3F75A159827B6938D2A93C75BC54B/"
+            }
+          ]
+        }
+      ],
+      "Heavy": [
+        {
+          "name": "Dresdon Acacin",
+          "image": "https://i.ibb.co/VWySgXB/Dresdon-Acacin.png",
+          "size": "small",
+          "type": "Ground Vehicle",
+          "points": 250,
+          "speed": 1,
+          "upgrades": {
+            "Hardpoint": 3,
+            "Comms": 1,
+            "Generator": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/776232727456806720/869654FC3B0590BFFF2E1845C3CFA9169838EBF9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/776232727456806858/52327997163A5113DF9E11B85F9DA8B6B970012C/"
+            }
+          ]
+        }
+      ]
+    },"Empire": {
       "Operative": [
         {
           "name": "Gar Saxon",
