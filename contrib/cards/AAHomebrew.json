@@ -2799,7 +2799,7 @@
           ],
           "additionalObjects": ["Victory Token"]
         },
-      ],
+      ]
       "Corps": [
         {
           "name": "Hired Guns",
@@ -2837,7 +2837,7 @@
             "Armament": 1,
             "Grenades": 1
           }
-      ],
+      ]
       "Support": [
         {
           "name": "AT-RT",
