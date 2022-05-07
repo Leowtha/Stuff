@@ -18,8 +18,8 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982271779/BBF522FC361772E237872CCC9E983F4A7CD58838/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982271948/1595F95FC7DB45109C0C2BCBE8A06B0F487FD04E/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
             }
           ],
           "commands": [
@@ -125,12 +125,12 @@
         {
           "name": "Dresdon Acacin",
           "image": "https://i.ibb.co/VWySgXB/Dresdon-Acacin.png",
-          "size": "large",
-          "type": "Ground Vehicle",
+          "size": "small",
+          "type": "Mandalorian Trooper",
           "points": 250,
           "speed": 1,
           "upgrades": {
-            "Hardpoint": 3,
+            "Gear": 3,
             "Comms": 1,
             "Generator": 1
           },
