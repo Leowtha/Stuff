@@ -37,6 +37,34 @@
               "name": "Oppressive Maneuvers",
               "image": "https://i.ibb.co/2FQNtmt/Oppressive-Manuevers.png",
               "pip": 2
+            },
+            {
+              "name": "Imprinted Maneuvers",
+              "image": "https://i.ibb.co/vcT40PJ/Imprinted-Manuevers.png",
+              "pip": 3
+            }
+          ]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "Hired Guns",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640741999970/AEA964040C9423D7CB3BBFE8E6127BFF6D9B4B16/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 36,
+          "speed": 2,
+          "upgrades": {
+            "Heavy Weapon": 1,
+            "Personnel": 1,
+            "Illicit": 1,
+            "Armament": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697231138162716/6618383926180465FB60EC9786E27A680C85BFC9/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697231138162922/C28DD0F623633DABFC9748FFE85A4AFA8D6010DE/"
             }
           ]
         }
@@ -97,7 +125,7 @@
         {
           "name": "Dresdon Acacin",
           "image": "https://i.ibb.co/VWySgXB/Dresdon-Acacin.png",
-          "size": "small",
+          "size": "large",
           "type": "Ground Vehicle",
           "points": 250,
           "speed": 1,
