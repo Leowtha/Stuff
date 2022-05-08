@@ -4,12 +4,12 @@
       "Commander": [
         {
           "name": "Phex Acacin",
-          "title": "RC 944",
+          "title": "Taciturn Tactician",
           "image": "https://i.ibb.co/fSYzjWm/Phex-Acacin-Commander.png",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 140,
-          "speed": 3,
+          "speed": 2,
           "upgrades": {
             "Training": 1,
             "Command": 1,
@@ -46,20 +46,41 @@
           ]
         }
       ],
+      "Operative": [
+        {
+          "name": "Thesal Lantia",
+          "title": "Ujalayi",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1027324712402774123/CA1C28978DE1A7BD777A1505DE5ECA0689B1AA23/",
+          "size": "small",
+          "type": "Mandalorian Trooper",
+          "points": 50,
+          "speed": 3,
+          "upgrades": {
+            "Training": 1,
+            "Gear": 1,
+            "Personnel": 2
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886421832/BBE3592A7496E444E116271913178A8ED41F5323/"
+            }
+          ]
+        }
+      ],
       "Corps": [
         {
-          "name": "Hired Guns",
+          "name": "Mandalorian Warrior",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738640741999970/AEA964040C9423D7CB3BBFE8E6127BFF6D9B4B16/",
           "size": "small",
           "type": "Mandalorian Trooper",
-          "points": 36,
+          "points": 20,
           "speed": 2,
           "upgrades": {
-            "Heavy Weapon": 1,
-            "Personnel": 1,
-            "Illicit": 1,
+            "Training": 1,
             "Armament": 1,
-            "Grenades": 1
+            "Heavy Weapon": 1,
+            "Gear": 1
           },
           "minis": [
             {
@@ -71,28 +92,25 @@
       ],
       "Special Forces": [
         {
-          "name": "Mandalorian Resistance",
+          "name": "Mandalorian Hunter",
           "image": "https://i.ibb.co/DKhx1j5/unknown.png",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 72,
           "speed": 3,
           "upgrades": {
-            "Heavy Weapon": 1,
-            "Training": 1,
-            "Comms": 1,
-            "Gear": 1,
+            "Training": 2,
             "Armament": 1,
-            "Grenades": 1
+            "Gear": 1
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886421832/BBE3592A7496E444E116271913178A8ED41F5323/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886396178/07FB37CA0A11552BEF96C3DCA10AF232C65AF7B6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886396372/35E5047903DC30F882B40719809ECF90DBC65A5A/"
             },
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696515357880094/FFFBDA79DE3B6192926EFCDFC257708C2A360562/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696515357880292/78883B5B08CCDC0B7BC4EF36D45DAB06E9057FEB/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886396178/07FB37CA0A11552BEF96C3DCA10AF232C65AF7B6/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886396372/35E5047903DC30F882B40719809ECF90DBC65A5A/"
             },
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886396178/07FB37CA0A11552BEF96C3DCA10AF232C65AF7B6/",
@@ -127,10 +145,10 @@
           "image": "https://i.ibb.co/VWySgXB/Dresdon-Acacin.png",
           "size": "small",
           "type": "Mandalorian Trooper",
-          "points": 250,
+          "points": 200,
           "speed": 1,
           "upgrades": {
-            "Gear": 3,
+            "Armament": 3,
             "Comms": 1,
             "Generator": 1
           },
