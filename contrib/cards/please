@@ -5,7 +5,7 @@
         {
           "name": "Phex Acacin",
           "title": "Taciturn Tactician",
-          "image": "https://i.ibb.co/fSYzjWm/Phex-Acacin-Commander.png",
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/972837662715179018/Phex_Acacin_Commander.png",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 140,
@@ -40,7 +40,7 @@
             },
             {
               "name": "Imprinted Maneuvers",
-              "image": "https://i.ibb.co/vcT40PJ/Imprinted-Manuevers.png",
+              "image": "https://cdn.discordapp.com/attachments/400841703663337473/972840017162555473/Imprinted_Tactical_Manuevers.png",
               "pip": 3
             }
           ]
@@ -50,7 +50,7 @@
         {
           "name": "Thesal Lantia",
           "title": "Ujalayi",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1027324712402774123/CA1C28978DE1A7BD777A1505DE5ECA0689B1AA23/",
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/972854553760387174/Thesal.png",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 50,
@@ -71,7 +71,7 @@
       "Corps": [
         {
           "name": "Mandalorian Warrior",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640741999970/AEA964040C9423D7CB3BBFE8E6127BFF6D9B4B16/",
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/972855797119873044/Corp-Mandalorian_Warrior.png",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 20,
@@ -84,8 +84,8 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697231138162716/6618383926180465FB60EC9786E27A680C85BFC9/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697231138162922/C28DD0F623633DABFC9748FFE85A4AFA8D6010DE/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886427483/34A3605CA2B2D8280D40991583D41D7D1B3F0E31/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886427771/60D6CA1D97D822A2222E4FAF614931265B7B0AF2/"
             }
           ]
         }
@@ -93,7 +93,7 @@
       "Special Forces": [
         {
           "name": "Mandalorian Hunter",
-          "image": "https://i.ibb.co/DKhx1j5/unknown.png",
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/972860032398012466/MAndo_Hunters.png",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 72,
@@ -142,7 +142,7 @@
       "Heavy": [
         {
           "name": "Dresdon Acacin",
-          "image": "https://i.ibb.co/VWySgXB/Dresdon-Acacin.png",
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/972839162908651650/Dresdon_Acacin.png",
           "size": "small",
           "type": "Mandalorian Trooper",
           "points": 200,
