@@ -96,7 +96,7 @@
           "image": "https://cdn.discordapp.com/attachments/400841703663337473/973549476134395915/MAndo_Hunters.png",
           "size": "small",
           "type": "Mandalorian Trooper",
-          "points": 72,
+          "points": 75,
           "speed": 3,
           "upgrades": {
             "Training": 2,
