@@ -14,7 +14,7 @@
             "Training": 1,
             "Command": 1,
             "Gear": 1,
-            "Armament": 1
+            "Armament": 2
           },
           "minis": [
             {
@@ -84,7 +84,7 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886427483/34A3605CA2B2D8280D40991583D41D7D1B3F0E31/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696515357844380/B08FE1606E634293EBE16FFD9541B5F7C801E2CF/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886427771/60D6CA1D97D822A2222E4FAF614931265B7B0AF2/"
             }
           ]
@@ -154,8 +154,8 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1009315641457800878/34EC84D7ECD99E073417866A9BEC4288E00F5359/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/773995200348530664/5E248091F8CC37B1023257338D4947E4ADFE48AB/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180041796/806FD35D077836E2B21585294CA1F31F3D20C5EF/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/"
             }
           ]
         }
