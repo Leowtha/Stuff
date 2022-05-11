@@ -42,6 +42,11 @@
               "name": "Imprinted Maneuvers",
               "image": "https://cdn.discordapp.com/attachments/400841703663337473/972840017162555473/Imprinted_Tactical_Manuevers.png",
               "pip": 3
+            },
+            {
+              "name": "For Mandalore!",
+              "image": "https://cdn.discordapp.com/attachments/400841703663337473/973765798889938984/For_Mandalore.png",
+              "pip": 4
             }
           ]
         }
@@ -157,9 +162,16 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180041796/806FD35D077836E2B21585294CA1F31F3D20C5EF/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/"
             }
+          ],
+          "commands": [
+            {
+              "name": "Mandokarla",
+              "image": "https://i.ibb.co/kJNZ88m/Phex-Mandokarla.png",
+              "pip": 1
+            }
           ]
         }
-      ]
+      ],
     },
     "First Order": {
       "Commander": [
@@ -2750,8 +2762,8 @@
       },
       {
         "name": "AADC-15SD",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640742002345/F99AB12D9FC7810EC0868DEA0DD3EEFBB15D686E/",
-        "points": 15,
+        "image": "https://cdn.discordapp.com/attachments/400841703663337473/973753953974116392/AADC.png",
+        "points": 20,
         "restrictions": {
           "include": {
             "unit": ["Phex Acacin"]
@@ -3617,13 +3629,13 @@
       },
       {
         "name": "Maleko Gartune",
-        "image": "https://cdn.discordapp.com/attachments/400841703663337473/973743512099119104/Maleko_Gartune.png",
+        "image": "https://cdn.discordapp.com/attachments/400841703663337473/973752835961401444/Maleko_Gartune.png",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886436522/D0CBBE1EB66E7A3FEECA1A6DF0FEF6F352287404/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886436834/E27641C0A96264724D710A4B3F912F543CF9413E/"
         },
         "leader": true,
-        "points": 30,
+        "points": 20,
         "restrictions": {
           "include": {
             "unit": ["Mandalorian Warrior"]
