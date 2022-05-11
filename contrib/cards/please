@@ -162,13 +162,6 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455180041796/806FD35D077836E2B21585294CA1F31F3D20C5EF/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455180028599/BF2A5BE67D0934FF1785E154F766FBA82950A84B/"
             }
-          ],
-          "commands": [
-            {
-              "name": "Mandokarla",
-              "image": "https://i.ibb.co/kJNZ88m/Phex-Mandokarla.png",
-              "pip": 1
-            }
           ]
         }
       ],
