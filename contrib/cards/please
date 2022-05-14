@@ -169,6 +169,28 @@
 "Empire": {
       "Operative": [
         {
+          "name": "Alkanese Erzabet",
+          "title": "Agent of The Emporer"
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/974576474407440384/Alkanese_Ezrabet.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 150,
+          "speed": 3,
+          "upgrades": {
+            "Armament": 1,
+            "Force": 1,
+            "Gear": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1027324804925773451/29E9C01AADB63D0F11307AC6DF9FE7F0C29178CD/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1027324804925773688/AA999386C07D280297E4E55F78BE951C22CC4765/"
+            }
+          ]
+        }
+      ],
+        {
           "name": "Gar Saxon",
           "title": "Ferocius and Merciless Warrior",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751698926/DEEC78B093B0018CAB33C87DC0888B05EF646E68/",
@@ -203,6 +225,32 @@
               "name": "Viceroy of Mandalore",
               "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751700204/E379AF4A3824F8CFFB8EFAED55B651116AFE5125/",
               "pip": 3
+            }
+          ]
+        }
+      ],
+      "Corps": [
+        {
+          "name": "Patrol Troopers",
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/974576953107558420/Patrol_Troops.png",
+          "size": "small",
+          "type": "Trooper",
+          "points": 26,
+          "speed": 3,
+          "upgrades": {
+            "Personnel": 1,
+            "Training": 1,
+            "Gear": 1,
+            "Grenades": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821972716827731/5B0D97A839084D07EA0B8A1F6C925732D300D681/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821972716828171/0331B4B577F867C2D647DDC63E4F201D400D679E/"
+            },
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821972716827731/5B0D97A839084D07EA0B8A1F6C925732D300D681/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821972716828171/0331B4B577F867C2D647DDC63E4F201D400D679E/"
             }
           ]
         }
