@@ -167,6 +167,27 @@
       ]
     },
     "Empire": {
+      "Commander": [
+        {
+          "name": "Imperial Officer",
+          "title": "Ruthless Commander",
+          "image": "https://static.wikia.nocookie.net/starwarslegion/images/5/59/Imperial_Officer-0.png/revision/latest?cb=20190909215550",
+          "size": "small",
+          "type": "Trooper",
+          "points": 50,
+          "speed": 2,
+          "upgrades": {
+            "Command": 1,
+            "Gear": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821664192111404/0E625C7A4614D3BE5DF4DF9D78BA558C2B78803C/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1022821664192111727/770A7C77419D31361A4E7DF14655D4339B5333BE/"
+            }
+          ]
+        }
+      ],
       "Operative": [
         {
           "name": "Alkanese Erzabet",
@@ -177,7 +198,7 @@
           "speed": 3,
           "upgrades": {
             "Armament": 1,
-            "Force": 1,
+            "Force": 2,
             "Gear": 1,
             "Training": 1
           },
