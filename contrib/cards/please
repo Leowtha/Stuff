@@ -191,10 +191,10 @@
       "Operative": [
         {
           "name": "Alkanese Erzabet",
-          "image": "https://cdn.discordapp.com/attachments/400841703663337473/974576474407440384/Alkanese_Ezrabet.png",
+          "image": "https://cdn.discordapp.com/attachments/400841703663337473/975711664584421426/Alkanese_Ezrabet.png",
           "size": "small",
           "type": "Trooper",
-          "points": 150,
+          "points": 140,
           "speed": 3,
           "upgrades": {
             "Armament": 1,
